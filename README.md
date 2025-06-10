@@ -3,17 +3,15 @@
 ## 📌 Overview
 This project presents a visually interactive Power BI dashboard that provides an in-depth analysis of **pizza sales performance** across different categories, sizes, and time periods. It helps identify peak ordering times, high-performing products, and business insights to optimize sales strategies.
 
----
-
 ## 📊 Key Metrics
 
-| Metric                | Value         | Description                                |
-|----------------------|---------------|--------------------------------------------|
-| **Total Revenue**     | $817.86K      | Total revenue generated from pizza sales   |
-| **Avg Order Value**   | $38.31        | Average value of a single order            |
-| **Total Pizzas Sold** | 49,574        | Total number of pizzas sold                |
-| **Total Orders**      | 21,350        | Number of completed customer orders        |
-| **Avg Pizzas/Order**  | 2.32          | Average number of pizzas per order         |
+| Metric       | Description  |
+|----------------------|---------------|----------------------------|
+| **Total Revenue**    | Total revenue generated from pizza sales   |
+| **Avg Order Value**  | Average value of a single order            |
+| **Total Pizzas Sold**| Total number of pizzas sold                |
+| **Total Orders**     | Number of completed customer orders        |
+| **Avg Pizzas/Order** | Average number of pizzas per order         |
 
 ---
 
